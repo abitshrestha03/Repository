@@ -1,0 +1,57 @@
+﻿@{
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+@model List<Book>
+<div class="container p-4">
+    <form asp-action="Home" asp-controller="User" method="get">
+        <h2>Search Books</h2>
+        <div class="d-flex gap-3 mb-2">
+            <input type="search" name="Title" class="form-control" placeholder="Search . . ." />
+            <button class="btn btn-info" type="submit">Search</button>
+        </div>
+        <div class="d-flex">
+            <div id="authorlist" class="form-group me-4">
+                <label>Author</label>
+                @Html.DropDownList("Author", ViewBag.AuthorList, "Author", new { @class = "form-select select2" })
+            </div>
+            <div class="form-group me-4">
+                <label>Language</label>
+                @Html.DropDownList("Language", ViewBag.LanguageList, "Language", new { @class = "form-select select2", @id = "languagelist" })
+            </div>
+            <div class="form-group me-4">
+                <label>Year</label>
+                @Html.DropDownList("Year", ViewBag.YearList, "Year", new { @class = "form-select select2", @id = "yearlist" })
+            </div>
+            <div class="form-group">
+                <label>Genres</label>
+                @Html.DropDownList("Genre", ViewBag.Genres, "Genres", new { @class = "form-select select2", @id = "genrelist" })
+
+            </div>
+    </form>
+</div>
+</div>
+<div class="row row-cols-1 row-cols-md-3 g-4 p-4">
+    @foreach (var book in Model)
+    {
+        <div class="col">
+            <div class="card">
+                <img src="@(Url.Content(book.Image))" alt="Alternate Text" height="300" style="object-fit:cover" />
+                <div class="card-body">
+                    <h5 class="card-title">@(book.Title)</h5>
+                    <p class="card-text">@(book.Language)</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#authorlist').select2();
+            $('#genrelist').select2();
+            $('#languagelist').select2();
+            $('#yearlist').select2();
+        });
+    </script>
+}

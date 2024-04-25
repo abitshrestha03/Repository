@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Day8First.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Day8First.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\1d952dda-fe60-4746-ba7e-015abd57532d.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\1d952dda-fe60-4746-ba7e-015abd57532d.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\1f5a4d45-f551-4172-9043-2961d0dec4a9.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\1f5a4d45-f551-4172-9043-2961d0dec4a9.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\204feabc-a1f8-42ab-9a61-1bf70cfbf663.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\204feabc-a1f8-42ab-9a61-1bf70cfbf663.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\24607eab-f96d-4b0a-a960-5a4ae3d5a0db.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\24607eab-f96d-4b0a-a960-5a4ae3d5a0db.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\25ae0040-0a49-40e8-9f7f-709f3bdffb35.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\25ae0040-0a49-40e8-9f7f-709f3bdffb35.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\281aefdb-1386-452c-86ac-25fa868693ac.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\281aefdb-1386-452c-86ac-25fa868693ac.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\3920bbb6-505e-4c43-bb49-c19dce57888b.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\3920bbb6-505e-4c43-bb49-c19dce57888b.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\40d180a0-bef9-47bf-b809-789db736386d.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\40d180a0-bef9-47bf-b809-789db736386d.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\41ae0fca-0ac0-4da0-85a5-012abd4820ba.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\41ae0fca-0ac0-4da0-85a5-012abd4820ba.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\44d1f21c-02c8-4f18-9a40-e6d06f386121.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\44d1f21c-02c8-4f18-9a40-e6d06f386121.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\6a89e234-07aa-43d4-a4b8-31abe61b4415.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\6a89e234-07aa-43d4-a4b8-31abe61b4415.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\6ab62ac3-bda5-401e-b0c3-8d243895e5c9.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\6ab62ac3-bda5-401e-b0c3-8d243895e5c9.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\7942069e-875e-4e2e-9c81-d8c37a583c14.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\7942069e-875e-4e2e-9c81-d8c37a583c14.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\8a1e0d30-b653-410a-a36a-4ae255ac6c81.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\8a1e0d30-b653-410a-a36a-4ae255ac6c81.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\8ca176d3-f38f-4edf-a0f0-6aef90212b4b.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\8ca176d3-f38f-4edf-a0f0-6aef90212b4b.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\bf208667-27e2-46f9-af90-434c596ee043.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\bf208667-27e2-46f9-af90-434c596ee043.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\e5de4412-0c50-49a9-899d-3ba541021af3.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\e5de4412-0c50-49a9-899d-3ba541021af3.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\Image\\Upload\\fcdeb59b-d508-4909-b8c6-87b2f383e258.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\fcdeb59b-d508-4909-b8c6-87b2f383e258.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day8First\\Day8First\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Day8First.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Day8First.props",
+      "PackagePath": "build\\Day8First.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Day8First.props",
+      "PackagePath": "buildMultiTargeting\\Day8First.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Day8First.props",
+      "PackagePath": "buildTransitive\\Day8First.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,25 @@
+﻿@model Book
+<form id="EditBookForm" method="post" enctype="multipart/form-data" asp-action="EditBook" asp-controller="Book">
+    <input type="hidden" name="Id" value="@(Model.Id)" />
+    <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input type="text" class="form-control" id="title" name="Title" value="@(Model.Title)" required>
+    </div>
+    <div class="mb-3">
+        <label for="genre" class="form-label">Genre</label>
+        @Html.DropDownList("GenreId", ViewBag.GenreList, "Genres", new { @class = "form-select select2", id = "genreList" })
+    </div>
+    <div class="mb-3">
+        <label class="form-label" for="language">Language</label>
+        <input type="text" name="Language" class="form-control" value="@(Model.Language)"/>
+    </div>
+    <div class="mb-3">
+        <label for="image" class="form-label">Image</label>
+        <input type="file" class="form-control" id="image" name="Image" required>
+    </div>
+    <div class="mb-3">
+        <label for="image" class="form-label">PublishedAt</label>
+        <input type="date" class="form-control" id="PublishedAt" name="PublishedDate" value="@(Model.PublishedDate.ToString("yyyy-MM-dd"))" />
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+</form>

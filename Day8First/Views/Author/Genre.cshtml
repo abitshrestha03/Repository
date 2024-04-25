@@ -1,0 +1,32 @@
+﻿<form class="p-4" asp-action="CreateGenre" asp-controller="Author" method="post">
+    <h2>Add Genres</h2>
+    <div class="mb-3">
+        <label class="form-label" for="Genre">Genre</label>
+        <div class="input-group d-flex gap-3">
+            <button class="btn btn-success" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                <i class="fa-solid fa-book"></i>
+            </button>
+            <input type="text" name="Name" placeholder="Enter genre . . ." class="form-control" />
+        </div>
+    </div>
+
+    <div class="collapse mb-3" id="collapseExample">
+        <div class="card card-body">
+            <h2>Add Book</h2>
+            <input name="Books.index" value="1" hidden />
+            <div class="mb-3">
+                <label class="form-label" for="Title">Title</label>
+                <input type="text" class="form-control" name="Books[1].Title" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label" for="Language">Language</label>
+                <input type="text" name="Books[1].Language" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Published Date</label>
+                <input type="date" name="Books[1].PublishedDate" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <button class="btn btn-primary mx-1" type="submit">Save</button>
+</form>

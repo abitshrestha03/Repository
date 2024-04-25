@@ -1,0 +1,90 @@
+﻿@model List<Book>
+@{
+    int sn = 1;
+}
+<div class="container mt-5">
+    <div class="row mb-3">
+        <div class="col-md-3">
+            <input type="text" id="searchInput" class="form-control" placeholder="Search...">
+        </div>
+        <div class="col-md-2">
+            <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addBookModal">Add Book</button>
+        </div>
+    </div>
+
+    <table class="table" id="myTable">
+        <thead class="table-light">
+            <tr>
+                <th>SNo.</th>
+                <th>Image</th>
+                <th>Title</th>
+                <th>Language</th>
+                <th>Genre</th>
+                <th>Published Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@(sn++)</td>
+                    <td><img src="@(Url.Content(book.Image))" height="70" width="70" alt="Alternate Text" /></td>
+                    <td>@(book.Title)</td>
+                    <td>@(book.Language)</td>
+                    <td>@(book.Genre.Name)</td>
+                    <td>@(book.PublishedDate.ToString("yyyy-MM-dd"))</td>
+                    <td>
+                        <button class="btn btn-secondary"><a style="text-decoration:none" href="/Author/Edit?Id=@(book.Id)" class="text-white">Edit</a></button>
+                        <button class="btn btn-danger"><a style="text-decoration:none" class="text-white" asp-action="Delete" asp-controller="Book" asp-route-id="@(book.Id)">Delete</a></button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- Add Book Modal -->
+<div class="modal fade" id="addBookModal" tabindex="-1" aria-labelledby="addBookModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mx-2" id="addBookModalLabel">Add Book</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-4">
+                <form id="addBookForm" method="post" enctype="multipart/form-data" asp-action="CreateBook" asp-controller="Book">
+                    <div class="mb-3">
+                        <label for="title" class="form-label">Title</label>
+                        <input type="text" class="form-control" id="title" name="Title" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="genre" class="form-label">Genre</label>
+                        @Html.DropDownList("Genre", ViewBag.GenreList, "Genres", new { @class = "form-select select2", @id = "genreList" })
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" for="language">Language</label>
+                        <input type="text" name="Language" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="image" class="form-label">Image</label>
+                        <input type="file" class="form-control" id="image" name="Image" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="image" class="form-label">PublishedAt</label>
+                        <input type="date" class="form-control" id="PublishedAt" name="PublishedDate" />
+                    </div>
+                    <button type="submit" class="btn btn-success">Add</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+<script>
+    $(document).ready(function () {
+        $('#myTable').DataTable();
+    });
+</script>
+}

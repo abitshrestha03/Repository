@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Intern\\Day8First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\user\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\user\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\models\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\models\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\author\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\author\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\author\\genre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\author\\genre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|e:\\intern\\day8first\\day8first\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1DECE-857E-477C-81C1-F16808D870D9}|Day8First\\Day8First.csproj|solutionrelative:day8first\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\User\\Home.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\User\\Home.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\User\\Home.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\User\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T01:14:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Day8First\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T06:36:34.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Repository\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Day8First\\Repository\\IAuthorRepository.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Repository\\IAuthorRepository.cs",
+              "RelativeToolTip": "Day8First\\Repository\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:29:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Day8First\\Repository\\AuthorRepository.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "Day8First\\Repository\\AuthorRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:30:05.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Models\\SessionService.cs",
+              "RelativeDocumentMoniker": "Day8First\\Models\\SessionService.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Models\\SessionService.cs",
+              "RelativeToolTip": "Day8First\\Models\\SessionService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:32:01.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day8First\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day8First\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:09:32.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Program.cs",
+              "RelativeDocumentMoniker": "Day8First\\Program.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Program.cs",
+              "RelativeToolTip": "Day8First\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:51:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Day8First\\Controllers\\AuthorController.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Day8First\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:15:32.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Day8First\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Day8First\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:15:22.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLayout.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Shared\\UserLayout.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\Shared\\UserLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T10:58:59.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Day8First\\Repository\\BookRepository.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Day8First\\Repository\\BookRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:50:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:58:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T11:21:13.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Day8First\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Day8First\\Controllers\\BookController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:38:10.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Day8First\\Repository\\IBookRepository.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Day8First\\Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:50:10.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Author\\Home.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Author\\Home.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Author\\Home.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\Author\\Home.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T01:14:38.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:09:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Day8First\\Repository\\IUserRepository.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Day8First\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:30:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Genre.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Author\\Genre.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Author\\Genre.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Author\\Genre.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\Author\\Genre.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T05:14:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Day8First\\Models\\Book.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Models\\Book.cs",
+              "RelativeToolTip": "Day8First\\Models\\Book.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:04:17.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Day8First\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Day8First\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:30:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Day8First\\Models\\Genre.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Models\\Genre.cs",
+              "RelativeToolTip": "Day8First\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:16:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Day8First\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Day8First\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:09:37.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Day8First\\Models\\Author.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Models\\Author.cs",
+              "RelativeToolTip": "Day8First\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:01:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Auth\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Auth\\Signup.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Auth\\Signup.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\Auth\\Signup.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T01:31:13.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Day8First\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Day8First\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T01:31:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Day8First\\Models\\Comment.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Models\\Comment.cs",
+              "RelativeToolTip": "Day8First\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:06:35.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Intern\\Day8First\\Day8First\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Day8First\\Models\\User.cs",
+              "ToolTip": "E:\\Intern\\Day8First\\Day8First\\Models\\User.cs",
+              "RelativeToolTip": "Day8First\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:13:48.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
