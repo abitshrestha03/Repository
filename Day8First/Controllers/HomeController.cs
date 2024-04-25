@@ -18,7 +18,6 @@ namespace Day8First.Controllers
         {
             return View();
         }
-
         public IActionResult Privacy()
         {
             return View();

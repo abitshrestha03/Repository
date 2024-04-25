@@ -7,24 +7,24 @@
         <h2>Search Books</h2>
         <div class="d-flex gap-3 mb-2">
             <input type="search" name="Title" class="form-control" placeholder="Search . . ." />
-            <button class="btn btn-info" type="submit">Search</button>
+            <button class="btn btn-info text-white" type="submit">Search</button>
         </div>
         <div class="d-flex">
             <div id="authorlist" class="form-group me-4">
-                <label>Author</label>
+                <label class="mb-1">Author</label>
                 @Html.DropDownList("Author", ViewBag.AuthorList, "Author", new { @class = "form-select select2" })
             </div>
             <div class="form-group me-4">
-                <label>Language</label>
+                <label class="mb-1">Language</label>
                 @Html.DropDownList("Language", ViewBag.LanguageList, "Language", new { @class = "form-select select2", @id = "languagelist" })
             </div>
             <div class="form-group me-4">
-                <label>Year</label>
+                <label class="mb-1">Year</label>
                 @Html.DropDownList("Year", ViewBag.YearList, "Year", new { @class = "form-select select2", @id = "yearlist" })
             </div>
             <div class="form-group">
-                <label>Genres</label>
-                @Html.DropDownList("Genre", ViewBag.Genres, "Genres", new { @class = "form-select select2", @id = "genrelist" })
+                <label class="mb-1">Genres</label>
+                @Html.DropDownList("Genre", ViewBag.Genres, "Genre", new { @class = "form-select select2", @id = "genrelist" })
 
             </div>
     </form>

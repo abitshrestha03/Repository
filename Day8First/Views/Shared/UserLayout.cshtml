@@ -1,7 +1,7 @@
-﻿@inject Microsoft.AspNetCore.Http.HttpContextAccessor _sessionContxt;
+﻿@* @inject Microsoft.AspNetCore.Http.HttpContextAccessor _sessionContxt;
 @{
     var loggedIn = _sessionContxt.HttpContext.Session.GetInt32("UserId");
-}
+} *@
 
 <!DOCTYPE html>
 <html lang="en">
@@ -33,18 +33,18 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        @if (loggedIn == null)
-                        {
+                       @*  @if (loggedIn == null)
+                        { *@
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Author" asp-action="Logout">Logout</a>
                             </li>
-                        }
+                   @*      }
                         else
-                        {
+                        { *@
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Auth" asp-action="Login">Login</a>
                             </li>
-                        }
+                        @* } *@
 
                     </ul>
                 </div>
