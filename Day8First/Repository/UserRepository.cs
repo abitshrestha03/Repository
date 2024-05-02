@@ -21,7 +21,7 @@ namespace Day8First.Repository
             {
                 return false;
             }
-            var IsPasswordCorrect = _dbContext.Users.FirstOrDefault(a => a.Password == author.Password);
+            var IsPasswordCorrect = _dbContext.Users.Where(IsUserEmailFound.Password==author.Password);
             if (IsPasswordCorrect == null)
             {
                 return false;
